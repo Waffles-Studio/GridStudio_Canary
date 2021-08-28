@@ -1,0 +1,129 @@
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\GridStudio_Canary\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\3\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\4\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\5\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\6\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\7\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\8\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\9\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\10\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\11\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\13\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Proyecto\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.pdb
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.csprojResolveAssemblyReference.cache
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.Form1.resources
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.Properties.Resources.resources
+D:\Usuarios\Usuario\Escritorio\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.csproj.GenerateResource.Cache
+D:\Usuarios\Usuario\Escritorio\Escuela\Graficación CAM\14\14\GridStudio_Canary\bin\Debug\GridStudio_Canary.exe.config
+D:\Usuarios\Usuario\Escritorio\Escuela\Graficación CAM\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.exe
+D:\Usuarios\Usuario\Escritorio\Escuela\Graficación CAM\14\14\GridStudio_Canary\obj\Debug\GridStudio_Canary.pdb
